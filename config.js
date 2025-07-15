@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Web của Vũ",
-    introTitle: 'Túc iu',
+    introTitle: 'Trúc iu',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
